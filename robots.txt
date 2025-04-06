@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://filtersearch7.netlify.app/sitemap.xml
